@@ -1,6 +1,6 @@
 # sql-challenge
 Hello, and thank you for checking out my code.
-For three of the six sql tables, I inserted the code manually because they have a small number of data points. The other tables were populated after I imported the csv files.
+For three of the six sql tables, I inserted the code manually because they have a small number of data points. The other tables were populated after I imported their corresponding csv files.
 
 Coding Help Used
 1. how to import csv to sql - https://www.youtube.com/watch?v=14FpoXKTEJw
